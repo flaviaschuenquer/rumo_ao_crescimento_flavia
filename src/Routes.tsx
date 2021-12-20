@@ -1,8 +1,8 @@
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from 'pages/Home';
 import Navbar from 'components/Navbar';
-import Catalog from 'pages/Cenario';
 import Admin from 'pages/Admin';
+import Cenario from 'pages/Cenario';
 
 const Routes = () => (
   <BrowserRouter>
@@ -12,7 +12,7 @@ const Routes = () => (
         <Home />
       </Route>
       <Route path="/products">
-        <Catalog />
+        <Cenario />
       </Route>
       <Route path="/admin">
         <Admin />

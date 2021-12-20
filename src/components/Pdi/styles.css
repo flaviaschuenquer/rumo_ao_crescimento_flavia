@@ -1,13 +1,12 @@
 /*.card-top-container {
   text-align: center;
   padding: 16px 0;
-  border-bottom: 1px solid #e1e1e1;
 }*/
 
 .pdi-container {
-  padding: 20px;
   font-size: 20px;
   text-align: center;
+  padding: 100px 100px 60px 100px;
 }
 
 .pdi-card {
