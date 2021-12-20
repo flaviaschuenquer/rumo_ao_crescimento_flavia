@@ -1,7 +1,7 @@
 import './styles.css';
 
-const ProductPrice = () => {
+const Adm = () => {
   return <div></div>;
 };
 
-export default ProductPrice;
+export default Adm;
