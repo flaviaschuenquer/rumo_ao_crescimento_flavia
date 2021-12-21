@@ -16,7 +16,7 @@ const Pdi = () => {
             </p>
           </div>
           <div>
-            <Link to="/Admin">
+            <Link to="/Plan">
               <ButtonIcon text=" Crie seu plano" />
             </Link>
           </div>

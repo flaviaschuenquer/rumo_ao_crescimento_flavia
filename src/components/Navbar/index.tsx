@@ -41,7 +41,7 @@ const Navbar = () => {
                 </NavLink>
               </li>
               <li>
-                <NavLink to="/admin" activeClassName="active">
+                <NavLink to="/plan" activeClassName="active">
                   PLANO
                 </NavLink>
               </li>
