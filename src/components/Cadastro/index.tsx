@@ -1,6 +1,6 @@
 import Pdi from 'components/Pdi';
 
-const Cenario = () => {
+const Login = () => {
   return (
     <div className="cenario container">
       <div className="base-card cenario-card">
@@ -12,4 +12,4 @@ const Cenario = () => {
   );
 };
 
-export default Cenario;
+export default Login;
