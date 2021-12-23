@@ -14,7 +14,7 @@ const Home = () => {
             <p>Criar e acompanhar plano</p>
           </div>
           <div>
-            <Link to="/products">
+            <Link to="/login">
               <ButtonIcon text="Inicie sua jornada" />
             </Link>
           </div>
